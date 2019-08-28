@@ -51,14 +51,17 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+/arm-none-eabi/gcc-arm-none-eabi-*/
 /arm-none-eabi/*.tar
 /arm-none-eabi/*.tar.*
 /arm-none-eabi/*.zip
 
+/xtensa-esp32-elf/xtensa-esp32-elf-*/
 /xtensa-esp32-elf/*.tar
 /xtensa-esp32-elf/*.tar.*
 /xtensa-esp32-elf/*.zip
 
+/xtensa-lx106-elf/xtensa-lx106-elf-*/
 /xtensa-lx106-elf/*.tar
 /xtensa-lx106-elf/*.tar.*
 /xtensa-lx106-elf/*.zip
