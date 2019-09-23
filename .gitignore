@@ -51,6 +51,9 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+/.vscode/
+/.vs/
+
 /arm-none-eabi/gcc-arm-none-eabi-*/
 /arm-none-eabi/*.tar
 /arm-none-eabi/*.tar.*
@@ -65,3 +68,9 @@ dkms.conf
 /xtensa-lx106-elf/*.tar
 /xtensa-lx106-elf/*.tar.*
 /xtensa-lx106-elf/*.zip
+
+/l718/build_env_mini_*/
+/l718/*.tar
+/l718/*.tar.*
+/l718/*.zip
+
